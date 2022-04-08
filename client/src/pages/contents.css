@@ -1,0 +1,10 @@
+.contents {
+    transition: color 5s ease !important;
+}
+
+.contents tr:hover {
+    color: crimson !important;
+    /* transform: scale(1.1); */
+    /* border: 1px dotted dodgerblue; */
+    transform: translate(0.5rem, 0);
+}

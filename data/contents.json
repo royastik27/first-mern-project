@@ -1,0 +1,20 @@
+[
+    {
+        "title": "First post",
+        "author": "Astik Roy",
+        "date": "30/3/2022",
+        "content": "This is my first post. Thank you for reading."
+    },
+    {
+        "title": "Second post",
+        "author": "Astik Roy",
+        "date": "31/3/2022",
+        "content": "This is my second post. Thank you for reading."
+    },
+    {
+        "title": "Third post",
+        "author": "Astik Roy",
+        "date": "1/4/2022",
+        "content": "Whoo! This is aprill FOOL!"
+    }
+]
